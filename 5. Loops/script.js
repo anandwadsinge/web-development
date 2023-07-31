@@ -29,5 +29,3 @@ do {
     loop++;
 } while (loop < 5)
 
-
-

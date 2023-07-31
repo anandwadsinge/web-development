@@ -18,4 +18,3 @@ console.log(count, count.shift())  // removes the first element of the array
 count.sort() // sorts the element in ascending order
 console.log(count);
 
-
